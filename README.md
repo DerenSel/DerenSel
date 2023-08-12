@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DerenSel
-- 👀 I’m interested in python, html, matlab, AI and physics.
+- 👀 I’m interested in python, matlab, HTML, CSS, AI and physics.
 - 🌱 I’m currently learning html,css and python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me derenselami0@gmail.com
 
 <!---
